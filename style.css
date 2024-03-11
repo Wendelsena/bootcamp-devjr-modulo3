@@ -1,5 +1,6 @@
 body {
     background: rgb(138, 219, 241);
+    overflow-y: hidden;
 }
 
 button {
